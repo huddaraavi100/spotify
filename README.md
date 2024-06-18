@@ -30,4 +30,5 @@ Once the Spotify clone is open in your browser, You can then click the play butt
 
 ## Screenshot-
 
-![image](https://user-images.githubusercontent.com/Screenshot.png)
+![image](https://github.com/huddaraavi100/spotify/assets/169606232/e059580a-e0eb-40bd-b08d-e6df39c4c06c)
+
